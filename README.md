@@ -4,11 +4,11 @@
 #RA: 24.00246-0
 
 
-#Nome: 
+#Nome: Rafael Pithon Suyeyasso
 
-#RA:
+#RA: 24.00584-3
 
 
-#Nome: 
+#Nome: Giulia Rita Sabella Damasceno  
 
-#RA: 
+#RA: 24.00921-0
